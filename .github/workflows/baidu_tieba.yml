@@ -4,7 +4,6 @@
 name: TiebaSignin
 
 on:
-This workflow has no runs yet.
   push:
     paths:
       - 'core/baidu_tieba/tieba_actions_run'
